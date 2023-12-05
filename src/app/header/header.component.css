@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(5, 5, 5);
+}
+
+.liClass :hover{
+     border-radius: 3rem;
+     color:black;
+     background-color: rgb(236, 238, 240);
+}
+
+.liClass {
+    /* background-color: transparent; */
+    color:rgb(255, 255, 255);
+}
+
+
+a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    /* background-color: transparent; */
+    color:rgb(255, 255, 255);
+}
