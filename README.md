@@ -1,27 +1,68 @@
-# MyAIChat
+# ChatGPT Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+## Overview
 
-## Development server
+This project utilizes OpenAI's GPT-3.5 language model to create a conversational chatbot, named ChatGPT. The aim is to provide users with an interactive and natural language interface for various applications.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+1. **Conversational Interface**: Engage in natural and dynamic conversations with the ChatGPT chatbot.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2. **Customizable Responses**: Tailor the responses based on the desired context and tone for your specific use case.
 
-## Build
+3. **API Integration**: Leverage the OpenAI GPT-3.5 API for powerful natural language processing.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Getting Started
 
-## Running unit tests
+### Prerequisites
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Obtain API key from OpenAI for GPT-3.5.
 
-## Running end-to-end tests
+### Installation
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone the repository:
 
-## Further help
+    ```bash
+    git clone https://github.com/yourusername/chatgpt-project.git
+    ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+2. Install dependencies:
+
+    ```bash
+    cd chatgpt-project
+    pip install -r requirements.txt
+    ```
+
+3. Set up your OpenAI API key:
+
+    Create a `.env` file in the project root directory and add your OpenAI API key:
+
+    ```env
+    OPENAI_API_KEY=your-api-key-here
+    ```
+
+### Usage
+
+1. Run the application:
+
+    ```bash
+    python chatgpt.py
+    ```
+
+2. Open your browser and navigate to `http://localhost:5000` to interact with ChatGPT.
+
+## Configuration
+
+Adjust the chatbot behavior and settings by modifying the configuration file (`config.json`). Customize parameters such as temperature, maximum tokens, and conversation history.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Special thanks to OpenAI for providing the powerful GPT-3.5 model.
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details 
