@@ -41,16 +41,6 @@ This project utilizes OpenAI's GPT-3.5 language model to create a conversational
     OPENAI_API_KEY=your-api-key-here
     ```
 
-### Usage
-
-1. Run the application:
-
-    ```bash
-    python chatgpt.py
-    ```
-
-2. Open your browser and navigate to `http://localhost:5000` to interact with ChatGPT.
-
 ## Configuration
 
 Adjust the chatbot behavior and settings by modifying the configuration file (`config.json`). Customize parameters such as temperature, maximum tokens, and conversation history.
