@@ -23,7 +23,7 @@ This project utilizes OpenAI's GPT-3.5 language model to create a conversational
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/chatgpt-project.git
+    git clone https://github.com/yourusername/MeanStack---ChatGPT.git
     ```
 
 2. Install dependencies:
