@@ -14,16 +14,22 @@ This project utilizes OpenAI's GPT-3.5 language model to create a conversational
 
 ## Screenshots
 
-**HOME SCREEN**
+**1 HOME SCREEN**
 
 ![Screenshot 2023-12-08 150539](https://github.com/supersaiyancoder/MeanStack---ChatGPT-/assets/83352265/078abe98-961a-40ba-ad57-960bf1a38bd6)
 
 
-**DEMO SCREEN**
+
+
+
+**2 DEMO SCREEN**
 ![Screenshot 2023-12-08 150554](https://github.com/supersaiyancoder/MeanStack---ChatGPT-/assets/83352265/8e0b8391-2833-4fd3-b009-854d04039bc6)
 
 
-**AI CHAT INTERACTION**
+
+
+
+**3 AI CHAT INTERACTION**
 ![Screenshot 2023-12-08 150639](https://github.com/supersaiyancoder/MeanStack---ChatGPT-/assets/83352265/88aa006a-b6b9-4426-a1b3-4ae17dd1fa4e)
 
 
